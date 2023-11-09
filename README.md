@@ -1,1 +1,1 @@
-# simon-game
+Mimic the button flashes in the correct order
