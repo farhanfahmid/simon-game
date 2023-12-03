@@ -46,6 +46,8 @@ $(".btn").click(function(){
     handleClickAnimation(button_clicked);
     handleClickSound(buttonID);
 
+    
+
     number_of_clicks++;
         
     if(number_of_clicks==compOrder.length){
